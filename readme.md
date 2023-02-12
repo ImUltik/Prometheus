@@ -10,7 +10,7 @@ It can currently obfuscate Lua51 and Roblox's LuaU, however LuaU support is not 
 To install Prometheus, simply clone the Github Repository using:
 
 ```batch
-git clone https://github.com/levno-710/Prometheus.git
+git clone https://github.com/ImUltik/Prometheus.git
 ```
 
 
